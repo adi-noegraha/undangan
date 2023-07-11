@@ -80,7 +80,7 @@
                 </div>
                 <h1 class="font-estetik my-4" style="font-size: 3rem;">Adi & Ajeng</h1>
                 <h4>Sabtu, 5 Agustus 2023</h4>
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wedding%20of%20Ajeng%20and%20Adi&details=The%20Wedding%20of%20Ajeng%20and%20Adi%20%7C%2015%20Maret%202023%20%7C%20RT%2010%20RW%2002,%20Desa%20Pajerukan,%20Kec.%20Kalibagor,%20Kab.%20Banyumas,%20Jawa%20Tengah%2053191%20%7C%2010.00%20-%2011.00%20WIB&dates=20230315T100000/20230315T110000&location=https://goo.gl/maps/ALZR6FJZU3kxVwN86">
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=The+Wedding+of+Adi+and+Ajeng&details=The+Wedding+of+Adi+and+Ajeng+5+Agustus+2023&location=ibis+budget+Surabaya+Diponegoro%2C+Jl.+Diponegoro+No.183%2C+Darmo%2C+Wonokromo%2C+Surabaya%2C+East+Java+60241&dates=20230805T030000Z%2F20230805T060000Z">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
                 <div class="d-flex justify-content-center align-items-center mt-4 mb-2">
