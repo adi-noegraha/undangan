@@ -4,14 +4,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Undangan Pernikahan Wahyu & Riski</title>
-    <meta name="title" content="Undangan Pernikahan Wahyu & Riski">
-    <meta name="description" content="Website Undangan Pernikahan Wahyu & Riski Secara Online">
+    <title>Undangan Pernikahan Adi & Ajeng</title>
+    <meta name="title" content="Undangan Pernikahan Adi & Ajeng">
+    <meta name="description" content="Website Undangan Pernikahan Adi & Ajeng Secara Online">
     <link rel="icon" type="image/png" sizes="192x192" href="./assets/images/icon-192x192.png">
     <meta name="theme-color" content="#212529">
     <meta name="color-scheme" content="dark">
-    <meta property="og:title" content="Undangan Pernikahan Wahyu & Riski">
-    <meta property="og:description" content="Website Undangan Pernikahan Wahyu & Riski Secara Online">
+    <meta property="og:title" content="Undangan Pernikahan Adi & Ajeng">
+    <meta property="og:description" content="Website Undangan Pernikahan Adi & Ajeng Secara Online">
     <meta property="og:image" content="https://dewanakl.github.io/undangan/assets/images/bg.jpeg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:alt" content="https://dewanakl.github.io/undangan/">
@@ -78,9 +78,9 @@
                         <img src="assets/images/bg.jpeg" alt="bg" onclick="modalFoto(this)">
                     </div>
                 </div>
-                <h1 class="font-estetik my-4" style="font-size: 3rem;">Wahyu & Riski</h1>
-                <h4>Rabu, 15 Maret 2023</h4>
-                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wedding%20of%20Wahyu%20and%20Riski&details=The%20Wedding%20of%20Wahyu%20and%20Riski%20%7C%2015%20Maret%202023%20%7C%20RT%2010%20RW%2002,%20Desa%20Pajerukan,%20Kec.%20Kalibagor,%20Kab.%20Banyumas,%20Jawa%20Tengah%2053191%20%7C%2010.00%20-%2011.00%20WIB&dates=20230315T100000/20230315T110000&location=https://goo.gl/maps/ALZR6FJZU3kxVwN86">
+                <h1 class="font-estetik my-4" style="font-size: 3rem;">Adi & Ajeng</h1>
+                <h4>Sabtu, 5 Agustus 2023</h4>
+                <a class="btn btn-outline-light btn-sm shadow rounded-pill px-3 my-2" target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=The%20Wedding%20of%20Ajeng%20and%20Adi&details=The%20Wedding%20of%20Ajeng%20and%20Adi%20%7C%2015%20Maret%202023%20%7C%20RT%2010%20RW%2002,%20Desa%20Pajerukan,%20Kec.%20Kalibagor,%20Kab.%20Banyumas,%20Jawa%20Tengah%2053191%20%7C%2010.00%20-%2011.00%20WIB&dates=20230315T100000/20230315T110000&location=https://goo.gl/maps/ALZR6FJZU3kxVwN86">
                     <i class="fa-solid fa-calendar-check me-2"></i>Save The Date
                 </a>
                 <div class="d-flex justify-content-center align-items-center mt-4 mb-2">
@@ -111,9 +111,9 @@
                         <div class="cropper border border-3 border-light shadow my-4 mx-auto">
                             <img src="assets/images/cowo.png" alt="bg" onclick="modalFoto(this)">
                         </div>
-                        <h1 class="font-estetik" style="font-size: 3rem;">Wahyu Siapa</h1>
+                        <h1 class="font-estetik" style="font-size: 3rem;">M Farhan Adinugraha S.Kom (Adi)</h1>
                         <h5 class="mt-3 mb-0">Putra</h5>
-                        <p class="mb-0">Bapak ... & Ibu ...</p>
+                        <p class="mb-0">Bapak Ir H Cucu Suherly & Ibu Hj Ellis Mulya Yulini</p>
                     </div>
 
                     <h1 class="font-estetik my-4" style="font-size: 4rem;">&</h1>
@@ -122,9 +122,9 @@
                         <div class="cropper border border-3 border-light shadow my-4 mx-auto">
                             <img src="assets/images/cewe.png" alt="bg" onclick="modalFoto(this)">
                         </div>
-                        <h1 class="font-estetik" style="font-size: 3rem;">Riski Siapa</h1>
+                        <h1 class="font-estetik" style="font-size: 3rem;">Ajeng Gama Rosyida S.Ak (Ajeng)</h1>
                         <h5 class="mt-3 mb-0">Putri</h5>
-                        <p class="mb-0">Bapak ... & Ibu ...</p>
+                        <p class="mb-0">Bapak H Gatot Suseno & Ibu Hj Mardiana</p>
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
                 <div class="text-center">
                     <h1 class="font-estetik py-3" style="font-size: 2rem;">Waktu Menuju Acara</h1>
                     <div class="border rounded-pill shadow py-2 px-4 mx-2 mb-4">
-                        <div class="row justify-content-center" data-waktu="2024-01-01 00:00:00" id="tampilan-waktu">
+                        <div class="row justify-content-center" data-waktu="2023-08-05 00:00:00" id="tampilan-waktu">
                             <div class="col-3 p-1">
                                 <h2 class="d-inline m-0 p-0" id="hari">0</h2><small class="ms-1 me-0 my-0 p-0 d-inline">Hari</small>
                             </div>
@@ -181,21 +181,21 @@
                     <div class="overflow-x-hidden">
                         <div class="py-2" data-aos="fade-left" data-aos-duration="1500">
                             <h1 class="font-estetik" style="font-size: 2rem;">Akad</h1>
-                            <p>Pukul 10.00 WIB - Selesai</p>
+                            <p>17 Juni 2023</p>
                         </div>
 
                         <div class="py-2" data-aos="fade-right" data-aos-duration="1500">
                             <h1 class="font-estetik" style="font-size: 2rem;">Resepsi</h1>
-                            <p>Pukul 13.00 WIB - Selesai</p>
+                            <p>5 Agustus 2023 </br>Pukul 8.00 WIB - Selesai</p>
                         </div>
                     </div>
 
                     <div class="py-2" data-aos="fade-up" data-aos-duration="1500">
-                        <a href="https://goo.gl/maps/ALZR6FJZU3kxVwN86" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
+                        <a href="https://goo.gl/maps/j3EWuPqXSyMNUaFf7" target="_blank" class="btn btn-outline-light btn-sm rounded-pill shadow-sm mb-2 px-3">
                             <i class="fa-solid fa-map-location-dot me-2"></i>Lihat Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
-                            RT 10 RW 02, Desa Pajerukan, Kec. Kalibagor, Kab. Banyumas, Jawa Tengah 53191
+                            Jl. Diponegoro No.183, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241
                         </p>
                     </div>
                 </div>
@@ -438,7 +438,7 @@
                         <div class="cropper border border-3 border-light shadow mb-4 mx-auto">
                             <img src="assets/images/bg.jpeg" alt="bg">
                         </div>
-                        <h1 class="font-estetik my-4" style="font-size: 2.5rem;">Wahyu & Riski</h1>
+                        <h1 class="font-estetik my-4" style="font-size: 2.5rem;">Adi & Ajeng</h1>
                         <div id="namatamu"></div>
                         <button type="button" class="btn btn-light shadow rounded-4 mt-4" data-bs-toggle="modal" data-bs-target="#exampleModal" onclick="buka()">
                             <i class="fa-solid fa-envelope-open me-2"></i>Buka Undangan
