@@ -113,7 +113,7 @@
                         </div>
                         <h1 class="font-estetik" style="font-size: 3rem;">M Farhan Adinugraha S.Kom (Adi)</h1>
                         <h5 class="mt-3 mb-0">Putra</h5>
-                        <p class="mb-0">Bapak Ir H Cucu Suherly & Ibu Hj Ellis Mulya Yulini</p>
+                        <p class="mb-0">Bapak H Cucu Suherly & Ibu Hj Ellis Mulya Yulini</p>
                     </div>
 
                     <h1 class="font-estetik my-4" style="font-size: 4rem;">&</h1>
