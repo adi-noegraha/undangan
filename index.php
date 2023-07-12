@@ -186,7 +186,7 @@
 
                         <div class="py-2" data-aos="fade-right" data-aos-duration="1500">
                             <h1 class="font-estetik" style="font-size: 2rem;">Resepsi</h1>
-                            <p>5 Agustus 2023 </br>Pukul 8.00 WIB - Selesai</p>
+                            <p>5 Agustus 2023 </br>Pukul 10.00 WIB - Selesai</p>
                         </div>
                     </div>
 
