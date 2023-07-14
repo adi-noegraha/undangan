@@ -122,9 +122,9 @@
                         <div class="cropper border border-3 border-light shadow my-4 mx-auto">
                             <img src="assets/images/cewe.png" alt="bg" onclick="modalFoto(this)">
                         </div>
-                        <h1 class="font-estetik" style="font-size: 3rem;">Ajeng Gama Rosyida S.E.I (Ajeng)</h1>
+                        <h1 class="font-estetik" style="font-size: 3rem;">Ajeng Gama Rosyida S.EI (Ajeng)</h1>
                         <h5 class="mt-3 mb-0">Putri</h5>
-                        <p class="mb-0">Bapak H Gatot Suseno & Ibu Hj Dra.Ec. Mardiana, M.PSDM</p>
+                        <p class="mb-0">Bapak H Gatot Suseno & Ibu Hj Mardiana</p>
                     </div>
                 </div>
             </div>
