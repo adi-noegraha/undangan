@@ -205,6 +205,7 @@
                             <i class="fa-solid fa-map-location-dot me-2"></i>Lihat Google Maps
                         </a>
                         <p class="mb-0 mt-1 mx-1 pb-4" style="font-size: 0.9rem;">
+                            Hall lt.10 Hotel Ibis Budget Surabaya</br>
                             Jl. Diponegoro No.183, Darmo, Kec. Wonokromo, Surabaya, Jawa Timur 60241
                         </p>
                     </div>
